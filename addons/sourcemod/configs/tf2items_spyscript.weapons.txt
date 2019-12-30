@@ -1,0 +1,39 @@
+"custom_weapons_v3"
+{
+	"*"
+	{
+		"59" //The Dead Ringer
+		{
+			"1"				"726; 0.5" // Half of cloak removed on feign death
+			"2"				"729; 0" // Reduced cloak from ammo by 100%
+			"3"				"33; 1" // Set cloak is feign death
+			"4"				"83; 0.6" //Cloak consume rate reduced
+			"5"				"84; 1.5" //Cloak regen rate increased
+			"6"				"160; 1" //Silent decloak
+		}
+		"30" //The invis watch
+		{
+			"1"				"160; 1" //Silent decloak
+		}
+		"212" //Strange invis watch
+		{
+			"1"				"160; 1" //Silent decloak
+		}
+		"60" //Cloak n dagger
+		{
+			"1"				"160; 1" //Silent decloak
+			"2"				"48; 2" //Set cloak is movement based
+			"3"				"84; 2.00" //Cloak regen rate increased
+			"4"				"728; 1" //No cloak from ammo boxes
+			"5"				"729; 0.65" //35% reduction in cloak from ammo
+		}
+		"297" //Enthusiast's Timepiece
+		{
+			"1"				"160; 1" //Silent decloak
+		}
+		"947" //The Quackenbirdt
+		{
+			"1"				"160; 1" //Silent decloak
+		}
+	}
+}
